@@ -1,4 +1,4 @@
-Hey there! Welcome to my first GitHub repository, bear with me if it doesnt reach github standard :)). I'm excited to share my project with you!
+Hey there! Welcome to my first GitHub repository, bear with me if it doesn't match github standard :)). I'm excited to share my project with you!
 
 # Red Among Us HTML/CSS Clone
 
